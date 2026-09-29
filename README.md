@@ -42,4 +42,70 @@ No external libraries are required.
 ### 1. Clone the Repository
 
 ```bash
-git clone https
+git clone https://github.com/your-username/Doctor-Appointment-Booking-System.git
+```
+
+### 2. Open the Project
+
+```bash
+cd Doctor-Appointment-Booking-System
+```
+
+### 3. Run the Program
+
+```bash
+python doctor_appointment.py
+```
+
+## 🔄 How It Works
+
+```text
+Start Program
+      ↓
+Enter Patient Details
+      ↓
+View Available Doctors
+      ↓
+Select Doctor
+      ↓
+Select Date & Time
+      ↓
+Confirm Appointment
+      ↓
+Display Appointment Details
+```
+
+## 🎯 Project Objective
+
+The main objective of this project is to create a simple doctor appointment booking system using **Python programming concepts** such as:
+
+- Variables
+- Lists
+- Dictionaries
+- Conditional statements
+- Loops
+- Functions
+- User input
+- Basic data handling
+
+## 🔮 Future Improvements
+
+The project can be further improved by adding:
+
+- Graphical User Interface (GUI)
+- Database integration
+- Doctor login system
+- Patient login system
+- Appointment history
+- Online appointment notifications
+- Web-based interface
+
+## 👨‍💻 Author
+
+**Sahil Keshri**
+
+B.Tech CSE (AI & ML)
+
+## 📜 License
+
+This project was created for **educational purposes**.
